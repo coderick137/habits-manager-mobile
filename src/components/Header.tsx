@@ -22,7 +22,7 @@ export function Header() {
         color={colors.violet[500]}
         />
         <Text className="text-white ml-3 font-semibold text-base">
-          New
+          Novo
         </Text>
       </TouchableOpacity>
     </View>
